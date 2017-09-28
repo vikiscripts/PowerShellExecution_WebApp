@@ -1,0 +1,15 @@
+c:\users\i33078a\documents\visual studio 2010\Projects\PowerShellExecution\PowerShellExecution\bin\PowerShellExecution.dll
+c:\users\i33078a\documents\visual studio 2010\Projects\PowerShellExecution\PowerShellExecution\bin\PowerShellExecution.pdb
+c:\users\i33078a\documents\visual studio 2010\Projects\PowerShellExecution\PowerShellExecution\obj\Debug\PowerShellExecution.csprojResolveAssemblyReference.cache
+c:\users\i33078a\documents\visual studio 2010\Projects\PowerShellExecution\PowerShellExecution\obj\Debug\PowerShellExecution.dll
+c:\users\i33078a\documents\visual studio 2010\Projects\PowerShellExecution\PowerShellExecution\obj\Debug\PowerShellExecution.pdb
+C:\Users\i33078a\Documents\Visual Studio 2010\Projects\PowerShellExecution_backup\PowerShellExecution\bin\PowerShellExecution.dll
+C:\Users\i33078a\Documents\Visual Studio 2010\Projects\PowerShellExecution_backup\PowerShellExecution\bin\PowerShellExecution.pdb
+C:\Users\i33078a\Documents\Visual Studio 2010\Projects\PowerShellExecution_backup\PowerShellExecution\obj\Debug\PowerShellExecution.csprojResolveAssemblyReference.cache
+C:\Users\i33078a\Documents\Visual Studio 2010\Projects\PowerShellExecution_backup\PowerShellExecution\obj\Debug\PowerShellExecution.dll
+C:\Users\i33078a\Documents\Visual Studio 2010\Projects\PowerShellExecution_backup\PowerShellExecution\obj\Debug\PowerShellExecution.pdb
+C:\Users\i33078a\Documents\Visual Studio 2010\Projects\PowerShellExecution_Gen\PowerShellExecution\bin\PowerShellExecution.dll
+C:\Users\i33078a\Documents\Visual Studio 2010\Projects\PowerShellExecution_Gen\PowerShellExecution\bin\PowerShellExecution.pdb
+C:\Users\i33078a\Documents\Visual Studio 2010\Projects\PowerShellExecution_Gen\PowerShellExecution\obj\Debug\PowerShellExecution.csprojResolveAssemblyReference.cache
+C:\Users\i33078a\Documents\Visual Studio 2010\Projects\PowerShellExecution_Gen\PowerShellExecution\obj\Debug\PowerShellExecution.dll
+C:\Users\i33078a\Documents\Visual Studio 2010\Projects\PowerShellExecution_Gen\PowerShellExecution\obj\Debug\PowerShellExecution.pdb
